@@ -1,6 +1,7 @@
-# MERN One-Page E-Commerce Dashboard
+# E-Commerce Logistics & Inventory Dashboard
 
-This project implements a professional single-page dashboard using your 3 CSV datasets and MongoDB (`mongodb://localhost:27017/`).
+*   **Data-Driven Logistics Dashboard:** Designed an interactive analytics interface to visualize product inventory and routing metrics across multiple cities, leveraging **React** and **Vite** for rapid UI rendering, while processing large-scale datasets using a robust **Node.js** and **Express.js** service integrated with **csv-parser**.
+*   **Real-time Estimation Engine:** Implemented a dynamic ETA and cost calculation system by querying a city-distance matrix and stock levels through a **MongoDB** database (managed via **Mongoose**), enabling instantaneous updates on delivery feasibility and pricing.
 
 ## What it does
 
